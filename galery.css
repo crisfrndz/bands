@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+body {
+  background-color: dodgerblue;
+}
+
+img {
+  width: 35vw;
+  max-height: 40vh;
+  margin: 50px;
+  border-radius: 1vw;
+  border: floralwhite 3px solid;
+}
+.pics {
+  display: flex;
+  justify-content: center;
+}
+.text {
+  margin: 50px;
+  font-family: "Inter";
+  font-size: 1.5vw;
+  color: floralwhite;
+}
+h1 {
+  margin: 50px;
+  font-family: "Inter";
+  color: floralwhite;
+  text-align: center;
+  font-family: 2vw;
+}
+.btn-con {
+  display: flex;
+  justify-content: center;
+}
+.link {
+  margin: 50px;
+  width: 20vw;
+  height: 10vh;
+  color: floralwhite;
+  background-color: royalblue;
+  font-size: 2vw;
+  border: none;
+}
